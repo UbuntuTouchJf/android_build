@@ -496,6 +496,8 @@ subdirs := \
 	external/e2fsprogs \
 	external/elfutils \
 	external/expat \
+        external/bsdiff \
+	external/libdivsufsort \
 	external/exfat \
 	external/libtar \
 	external/flac \
